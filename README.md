@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cybersecurity-dev
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Malware Detection
+- 👀 I’m researcher in Cyber Security
+- 🌱 I’m currently working on Malware Detection
 
 <!---
 cybersecurity-dev/cybersecurity-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
