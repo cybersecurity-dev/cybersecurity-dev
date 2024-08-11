@@ -20,18 +20,20 @@
 
 ## My GitHub Stats
 
-
+<p align="center"> 
 <a href="https://cyberthreatdefence.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersecurity-dev&show_icons=true&line_height=33&count_private=true&theme=dark" alt="cybersecurity-dev's GitHub Stats" />
-</a>
+</a></p>
 
+<p align="center"> 
 <a href="https://cyberthreatdefence.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersecurity-dev&&hide=cmake&langs_count=4&line_height=35&theme=dark" />
-</a>
+</a></p>
 
+<p align="center"> 
 <a href="https://cyberthreatdefence.com">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybersecurity-dev&theme=dark" />
-</a>
+</a></p>
 <br/>
 
 <img alt="Stars" src="https://img.shields.io/github/stars/cybersecurity-dev?label=Stars">
