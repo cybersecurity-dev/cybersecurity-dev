@@ -19,24 +19,21 @@
 
 
 ## My GitHub Stats
-
-<a align="center" href="https://cyberthreatdefence.com">
-  <div class="text-center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybersecurity-dev&show_icons=true&line_height=33&count_private=true&theme=dark" alt="cybersecurity-dev's GitHub Stats" />
-  </div>
+<div class="text-center">
+<a href="https://cyberthreatdefence.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersecurity-dev&show_icons=true&line_height=33&count_private=true&theme=dark" alt="cybersecurity-dev's GitHub Stats" />
 </a>
+</div>
 <br/>
 
 <div class="text-center">
 <a href="https://cyberthreatdefence.com">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersecurity-dev&line_height=33&theme=dark" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cybersecurity-dev&line_height=45&theme=dark" />
 </a>
-
 <a href="https://cyberthreatdefence.com">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersecurity-dev&&hide=cmake&langs_count=4&line_height=33&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersecurity-dev&&hide=cmake&langs_count=4&line_height=45&theme=dark" />
 </a>
 </div>
-
 <br/>
 
 <a href="https://cyberthreatdefence.com">
