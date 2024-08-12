@@ -1,7 +1,7 @@
 <!-- Image start -->
 
-<p align="center"> 
-    <a href="#"><img width="100%" height="auto" src="./assets/cyber_banner.jpg" height="175px"/> </a>
+<p align="center" href="https://cyberthreatdefence.com"> 
+    <a href="https://cyberthreatdefence.com"><img width="100%" height="auto" src="./assets/cyber_banner.jpg" height="175px"/> </a>
 </p>
 
 <!-- Image end -->
