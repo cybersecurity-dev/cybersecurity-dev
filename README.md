@@ -2,6 +2,10 @@
 
 <p align="center" href="https://cyberthreatdefence.com"> 
     <a href="https://cyberthreatdefence.com"><img width="100%" height="auto" src="./assets/cyber_banner.jpg" height="175px"/> </a>
+    <a href="https://cyberthreatdefence.com"><img src="https://komarev.com/ghpvc/?username=cybersecurity-dev"> </a>
+    <p align="center">
+  
+</p>
 </p>
 
 <!-- Image end -->
