@@ -1,7 +1,8 @@
 <!-- Image start -->
 
 <p align="center" href="https://cyberthreatdefence.com"> 
-    <a href="https://cyberthreatdefence.com"><img width="100%" height="auto" src="github-metrics.svg" height="175px"/> </a>
+    <a href="https://cyberthreatdefence.com">
+        <picture><img width="100%" height="auto" src="github-metrics.svg" height="175px" alt="Metrics"/> </a> </picture>
     <a href="https://cyberthreatdefence.com"><img src="https://komarev.com/ghpvc/?username=cybersecurity-dev"> </a>
     <p align="center">
   
