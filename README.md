@@ -73,7 +73,7 @@
 *   Secondary: ![Assembly](https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logo=assembly&logoColor=white), ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) & ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### AI Framework
-*   Primary: ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+*   Primary: ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white), ![Keras](https://img.shields.io/badge/Keras-%23EE4C2C.svg?style=for-the-badge&logo=Keras&logoColor=white)
 *   Secondary: ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white), ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 
 ### Database
