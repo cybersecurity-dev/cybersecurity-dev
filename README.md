@@ -4,8 +4,10 @@
     <a href="https://cyberthreatdefence.com">
         <picture><img width="100%" height="auto" src="github-metrics.svg" height="175px" alt="Metrics"/> </a> </picture>
     <a href="https://cyberthreatdefence.com"><img src="https://komarev.com/ghpvc/?username=cybersecurity-dev"> </a>
-    <p align="center">
-  
+<p align="center" href="https://cyberthreatdefence.com"> 
+  <a href="https://cyberthreatdefence.com">    
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybersecurity-dev&theme=xcode&hide_border=true" alt="Activity graph"> 
+  </a>
 </p>
 </p>
 
