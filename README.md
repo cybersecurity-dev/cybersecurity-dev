@@ -55,16 +55,16 @@
 ---
 
 *   C/C++ Development
-*   CyberSecurity
 *   Reverse Engineering
 *   Malware Analysis
-*   Capture the Flag (CTF)
-*   Windows Internals 
-*   Linux Driver Development
 *   Vulnerability Research
 *   Exploit Development
-*   Artificial Intelligence (AI)
-
+*   Network Behavior Anomaly Detection
+*   Windows Internals
+*   Linux Driver Development
+*   Compiler Development
+*   Capture the Flag (CTF) 
+*   Artificial Intelligence and Cybersecurity Research
 
 ## Languages and Tools:
 ---
