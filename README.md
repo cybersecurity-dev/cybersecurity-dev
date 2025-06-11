@@ -13,7 +13,7 @@
 
 <!-- Image end -->
 
-## My GitHub Stats
+## GitHub Stats
 <div class="text-center">
 <a href="https://cyberthreatdefence.com">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersecurity-dev&show_icons=true&line_height=33&count_private=true&theme=dark" alt="cybersecurity-dev's GitHub Stats" />
