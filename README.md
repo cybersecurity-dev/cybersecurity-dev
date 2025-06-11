@@ -6,7 +6,11 @@
         <picture><img width="100%" height="auto" src="github-metrics.svg" height="175px" alt="Metrics"/> </a> </picture>
     <a href="https://cyberthreatdefence.com"><img src="https://komarev.com/ghpvc/?username=cybersecurity-dev"> </a>
 </p>
-
+<p align="center" href="https://cyberthreatdefence.com"> 
+  <a href="https://cyberthreatdefence.com">    
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybersecurity-dev&theme=xcode&hide_border=true" alt="Activity graph"> 
+  </a>
+</p>
 <div class="text-center">
 <a href="https://cyberthreatdefence.com">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersecurity-dev&show_icons=true&line_height=33&count_private=true&theme=dark" alt="cybersecurity-dev's GitHub Stats" />
