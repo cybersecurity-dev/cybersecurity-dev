@@ -1,32 +1,48 @@
 ## GitHub Stats
 <!-- Image start -->
 
-<p align="center" href="https://cyberthreatdefence.com"> 
+<div class="text-center"> 
     <a href="https://cyberthreatdefence.com">
-        <picture><img width="100%" height="auto" src="github-metrics.svg" height="175px" alt="Metrics"/> </a> </picture>
-    <a href="https://cyberthreatdefence.com"><img src="https://komarev.com/ghpvc/?username=cybersecurity-dev"> </a>
-</p>
-<p align="center" href="https://cyberthreatdefence.com"> 
-  <a href="https://cyberthreatdefence.com">    
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=cybersecurity-dev&theme=xcode&hide_border=true" alt="Activity graph"> 
-  </a>
-</p>
-<br/>
-<div class="text-center">
-<a href="https://cyberthreatdefence.com">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cybersecurity-dev&show_icons=true&line_height=33&count_private=true&theme=dark" alt="cybersecurity-dev's GitHub Stats" />
-</a>
-<a href="https://cyberthreatdefence.com">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersecurity-dev&&hide=cmake&langs_count=4&line_height=45&theme=dark" />
-</a>
+       <img align="center" width="100%" height="auto" src="github-metrics.svg" height="175px" alt="Metrics" />
+       <img align="center" src="https://komarev.com/ghpvc/?username=cybersecurity-dev" /> 
+    </a>
 </div>
-<br/>
-
-<a href="https://cyberthreatdefence.com">
-    <img alt="Stars" src="https://img.shields.io/github/stars/cybersecurity-dev?label=Stars">
-    <img alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=cybersecurity-dev">
-</a>
-<br/>
+<br />
+<div class="text-center">
+  <a href="https://cyberthreatdefence.com">    
+      <img align="center"
+          src="https://github-readme-activity-graph.vercel.app/graph?username=cybersecurity-dev&theme=xcode&hide_border=true" alt="Activity graph"
+       /> 
+  </a>
+</div>
+<br />
+<div class="text-center">
+    <a href="https://cyberthreatdefence.com">
+        <img align="center" 
+            src="https://github-readme-stats.vercel.app/api?username=cybersecurity-dev&show_icons=true&line_height=33&count_private=true&theme=dark" alt="cybersecurity-dev's GitHub Stats"
+        />
+    </a>
+    <a href="https://cyberthreatdefence.com">
+        <img 
+            align="center" 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybersecurity-dev&&hide=cmake&langs_count=4&line_height=45&theme=dark"
+        />
+    </a>
+</div>
+<br />
+<div style="text-align: center;">
+    <a href="https://cyberthreatdefence.com">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=cybersecurity-dev&line_height=45&theme=dark" />
+    </a>
+</div>
+<br />
+<div class="text-center">
+    <a href="https://cyberthreatdefence.com">
+        <img align="center" alt="Stars" src="https://img.shields.io/github/stars/cybersecurity-dev?label=Stars" />
+        <img align="center" alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=cybersecurity-dev" />
+    </a>
+</div>
+<br />
 
 <!-- Image end -->
 
