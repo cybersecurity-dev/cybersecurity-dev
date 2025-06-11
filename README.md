@@ -13,18 +13,6 @@
 
 <!-- Image end -->
 
-<!-- About me start -->
-## About Me
-
----
-
-- 👋 Hi, I’m PhD Researcher
-- 👀 I’m researcher in Cyber Security
-- 🌱 I’m currently working on Malware Detection
-
-<!-- About me end -->
-
-
 ## My GitHub Stats
 <div class="text-center">
 <a href="https://cyberthreatdefence.com">
@@ -50,7 +38,7 @@
 <br/>
 
 
-## Interest
+## Projects and Workspace
 
 ---
 
@@ -65,10 +53,10 @@
 *   Compiler Development
 *   Capture the Flag (CTF) 
 *   Artificial Intelligence and Cybersecurity Research
+*   Smart Contracts
 
 ## Languages and Tools:
 ---
-
 
 ### Programming Languages
 
@@ -87,15 +75,15 @@
 
 
 
-## 📫 How to reach me
 
----
 
 
 
 
 
 <!---
+## 📫 How to reach me
+---
 cybersecurity-dev/cybersecurity-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
