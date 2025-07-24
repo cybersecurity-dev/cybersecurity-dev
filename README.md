@@ -52,7 +52,7 @@
 *   Artificial Intelligence and Cybersecurity Research
 *   Smart Contracts
 
-## Languages and Tools:
+## 💻 Tech Stack:
 ---
 
 ### Programming Languages
