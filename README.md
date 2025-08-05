@@ -82,6 +82,7 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CTDefence)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=fff)](https://mastodon.social/@cyberthreatdefence)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=fff)](https://substack.com/@cyberthreatdefense)
+[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/cyberdefense)
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/CyberDefence)
 
 <!---
