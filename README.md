@@ -62,8 +62,8 @@
 * [![Assembly](https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logo=assembly&logoColor=white)](https://github.com/cybersecurity-dev?tab=repositories&q=assembly&type=&language=&sort=name) [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/cybersecurity-dev?tab=repositories&q=shell-script&type=&language=&sort=name) [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://github.com/cybersecurity-dev?tab=repositories&q=csharp&type=&language=&sort=name)
 
 ### AI Framework
-* ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![Keras](https://img.shields.io/badge/Keras-%23EE4C2C.svg?style=for-the-badge&logo=Keras&logoColor=white)
-* ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+* [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+* [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/) [![Keras](https://img.shields.io/badge/Keras-%23EE4C2C.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
 
 ### Database
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
