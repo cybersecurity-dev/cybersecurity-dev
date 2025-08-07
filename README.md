@@ -45,8 +45,8 @@
 *   Vulnerability Research
 *   Exploit Development
 *   Network Behavior Anomaly Detection
-*   Windows Internals
-*   Linux Driver Development
+*   Windows/Linux Internals
+*   Driver Development
 *   Compiler Development
 *   Capture the Flag (CTF) 
 *   Artificial Intelligence and Cybersecurity Research
