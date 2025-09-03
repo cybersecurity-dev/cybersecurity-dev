@@ -69,21 +69,36 @@
 * ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/cybersecurity-dev/awesome-postgresql)
 * [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/cybersecurity-dev/awesome-redis) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
-## 📫 How to reach me
----
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1398329285160341554)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/cyberthreatdefence)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/CyberDefenseCenter)
+## Blog
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cyberthreatdefense)
 [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?style=for-the-badge&logo=blogger&logoColor=white)](https://cyberthreatdefence.com/)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=fff)](https://substack.com/@cyberthreatdefense)
+[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/cyberdefense)
 
+## Social Network
+[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/CyberDefence)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff)](https://bsky.app/profile/cyberthreatdefence.bsky.social)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/CTDefence)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=fff)](https://mastodon.social/@cyberthreatdefence)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=fff)](https://substack.com/@cyberthreatdefense)
-[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white)](https://app.daily.dev/cyberdefense)
-[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/CyberDefence)
+
+## Repo
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/cyberthreatdefense)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/CyberDefenseCenter)
+
+
+---
+## 📫 How to reach me
+<p align="left">
+  <!-- Keybase -->
+  <a href="https://keybase.io/cyberdefence" target="_blank">
+    <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/keybase.svg" alt="Keybase" width="40" height="40"/>
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/1398329285160341554" target="_blank">
+    <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Discord.svg" alt="Discord" height="30"/>
+  </a>
+</p>
+
 
 <!---
 cybersecurity-dev/cybersecurity-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
