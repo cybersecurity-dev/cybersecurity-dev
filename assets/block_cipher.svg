@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="80mm"
+   height="30mm"
+   viewBox="0 0 80 30"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="Block Cipher-en.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.025849"
+     inkscape:cx="108.34964"
+     inkscape:cy="118.22204"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-8-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-2-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-8-6-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-2-3-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-8-6-3-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-2-3-2-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2-8-6-3-8-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L-2-3-2-9-3" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-49.982357,-81.706465)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       id="rect234"
+       width="30.371851"
+       height="23.430439"
+       x="-105.93245"
+       y="86.75486"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.279336;stop-color:#000000"
+       id="rect236"
+       width="24.067646"
+       height="8.3147135"
+       x="-104.42697"
+       y="88.290092"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.279336;stop-color:#000000"
+       id="rect236-2"
+       width="24.067646"
+       height="8.3147135"
+       x="-104.42697"
+       y="100.59937"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="92.457489"
+       y="91.272049"
+       id="text422"><tspan
+         sodipodi:role="line"
+         id="tspan420"
+         style="direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="92.457489"
+         y="91.272049">Encryption</tspan><tspan
+         sodipodi:role="line"
+         style="direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="92.457489"
+         y="95.050301"
+         id="tspan3084">function (E<tspan
+   style="font-size:65%;direction:ltr;baseline-shift:sub"
+   id="tspan4920">k</tspan>(P))</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="61.419563"
+       y="90.182991"
+       id="text422-1"><tspan
+         sodipodi:role="line"
+         id="tspan420-2"
+         style="direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="61.419563"
+         y="90.182991">Plaintext (P)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.11667px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="61.44566"
+       y="93.121872"
+       id="text422-1-4"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-7"
+         style="font-size:2.11667px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="61.44566"
+         y="93.121872">(Block of n bits)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="90.659706"
+       y="85.782509"
+       id="text422-1-47"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-28"
+         style="direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="90.659706"
+         y="85.782509">Block Cipher</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.11667px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="91.558571"
+       y="88.192223"
+       id="text422-1-4-9"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-7-7"
+         style="font-size:2.11667px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="91.558571"
+         y="88.192223" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="119.52772"
+       y="91.776779"
+       id="text422-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-4"
+         style="direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="119.52772"
+         y="91.776779">Cipered text (C)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.11667px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="119.50575"
+       y="94.71566"
+       id="text422-1-4-6"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-7-1"
+         style="font-size:2.11667px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="119.50575"
+         y="94.71566">(Block of n bit)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="119.21169"
+       y="104.84389"
+       id="text422-1-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-4-7"
+         style="direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="119.21169"
+         y="104.84389">Plaintext (P)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.11667px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="119.23779"
+       y="107.78278"
+       id="text422-1-4-6-1"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-7-1-2"
+         style="font-size:2.11667px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="119.23779"
+         y="107.78278">(Block of n bits)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="61.480022"
+       y="97.947769"
+       id="text422-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-2"
+         style="direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="61.480022"
+         y="97.947769">Secret key (K)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.11667px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="61.44566"
+       y="100.88665"
+       id="text422-1-4-8"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-7-0"
+         style="font-size:2.11667px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="61.44566"
+         y="100.88665">(k bits)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="61.467621"
+       y="105.89548"
+       id="text422-1-7"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-9"
+         style="direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="61.467621"
+         y="105.89548">Cipered text (C)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:2.11667px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="61.44566"
+       y="108.83436"
+       id="text422-1-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan420-2-7-8"
+         style="font-size:2.11667px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="61.44566"
+         y="108.83436">(Block of n bit)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;line-height:1.19;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';text-align:center;text-anchor:middle;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stop-color:#000000"
+       x="92.457489"
+       y="103.64663"
+       id="text422-2"><tspan
+         sodipodi:role="line"
+         id="tspan420-5"
+         style="direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="92.457489"
+         y="103.64663">Decryption</tspan><tspan
+         sodipodi:role="line"
+         style="direction:ltr;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="92.457489"
+         y="107.42488"
+         id="tspan3086">function (D<tspan
+   style="font-size:65%;direction:ltr;baseline-shift:sub"
+   id="tspan4922">k</tspan>(C))</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2);stop-color:#000000"
+       d="m 72.259346,90.860994 c 0.5061,-0.01633 6.8567,-0.03265 6.8567,-0.03265"
+       id="path667"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2-8);stop-color:#000000"
+       d="m 72.179956,106.32287 c 0.47047,0.0137 6.91864,-0.0383 6.91864,-0.0383"
+       id="path667-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2-8-6);stop-color:#000000"
+       d="m 77.090871,101.9478 c 0.49645,0.0109 1.975075,0.0145 1.975075,0.0145"
+       id="path667-5-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2-8-6-3);stop-color:#000000"
+       d="m 77.086748,95.438106 c 0.56323,-0.0041 2.044498,-0.006 2.044498,-0.006"
+       id="path667-5-8-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 77.189809,95.439904 -0.003,6.533806"
+       id="path1751"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 71.572909,98.562657 c 0.52819,-0.0094 5.67412,-0.0036 5.67412,-0.0036"
+       id="path667-5-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2-8-6-3-8);stop-color:#000000"
+       d="m 104.32685,104.9881 3.31308,-0.0116"
+       id="path2036-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.198437;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2-8-6-3-8-1);stop-color:#000000"
+       d="m 104.33343,92.457753 3.31308,-0.0116"
+       id="path2036-9-5"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
