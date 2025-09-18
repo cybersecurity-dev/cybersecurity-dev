@@ -97,6 +97,10 @@
   <a href="https://discord.com/users/1398329285160341554" target="_blank">
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Discord.svg" alt="Discord" height="30"/>
   </a>
+  <!-- Zoom -->
+  <a href="https://us05web.zoom.us/j/3866960689?pwd=ZbvDFyTPEfO37CoXCRljELPjADbNDG.1" target="_blank">
+    <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Zoom_logo.svg" alt="Zoom" height="25"/>
+  </a>
 </p>
 
 
