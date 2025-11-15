@@ -66,7 +66,7 @@
 * [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/) [![Keras](https://img.shields.io/badge/Keras-%23EE4C2C.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
 
 ### Database
-* ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/cybersecurity-dev?tab=repositories&q=postgresql&type=public&language=&sort=name)
+* [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/cybersecurity-dev?tab=repositories&q=sqlite&type=public&language=&sort=name) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/cybersecurity-dev?tab=repositories&q=postgresql&type=public&language=&sort=name)
 * [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/cybersecurity-dev/awesome-redis) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Blog
