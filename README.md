@@ -67,7 +67,7 @@
 
 ### Database
 * [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/cybersecurity-dev?tab=repositories&q=sqlite&type=public&language=&sort=name) [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/cybersecurity-dev?tab=repositories&q=postgresql&type=public&language=&sort=name)
-* [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/cybersecurity-dev/awesome-redis) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+* [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/cybersecurity-dev?tab=repositories&q=redis&type=public&language=&sort=name)
 
 ## Blog
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cyberthreatdefense)
